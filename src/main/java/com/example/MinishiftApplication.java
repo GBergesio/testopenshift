@@ -8,6 +8,7 @@ public class MinishiftApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Iniciado");
+		System.out.println("Iniciado 2");
 		SpringApplication.run(MinishiftApplication.class, args);
 	}
 
